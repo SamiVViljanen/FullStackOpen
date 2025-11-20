@@ -27,4 +27,3 @@ sequenceDiagram
     Server -->> Browser: Updated notes JSON
 
     Note over Browser: Selain näyttää päivitetyn muistiinpanolistan
-    ``` 
