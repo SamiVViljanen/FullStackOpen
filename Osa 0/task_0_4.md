@@ -13,7 +13,7 @@ sequenceDiagram
     Note over Browser: Selain seuraa uudelleenohjausta ja lataa sivun uudelleen
 
     Browser ->> Server: GET /notes
-    SErver -->> Browser: HTML document
+    Server -->> Browser: HTML document
 
     Browser ->> Server: GET /main.css
     Server -->> Browser: CSS file
