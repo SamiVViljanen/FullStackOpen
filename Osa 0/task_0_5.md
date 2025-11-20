@@ -20,4 +20,3 @@ sequenceDiagram
     Server -->> Browser: Notes JSON data
 
     Note over Browser: Selain piirtää muistiinpanot sivulle ilman uutta sivulatausta
-    ```
