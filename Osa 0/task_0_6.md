@@ -13,4 +13,3 @@ sequenceDiagram
     deactivate Server
 
     Note over Browser: Selain päivittää muistiinpanolistan suoraan JavaScriptillä ilman sivun uudelleenlataamista
-    ```
