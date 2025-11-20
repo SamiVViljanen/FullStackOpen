@@ -26,5 +26,5 @@ sequenceDiagram
     Browser ->> Server: GET /data.json
     Server -->> Browser: Updated notes JSON
 
-    Note over Browser: Selain näyttää päivitetyn muistiinpanolistan.
+    Note over Browser: Selain näyttää päivitetyn muistiinpanolistan
     ``` 
